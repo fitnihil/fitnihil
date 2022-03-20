@@ -14,6 +14,6 @@ I mainly use GitHub to keep my personal [portfolio](https://fitnihil.be) up-to-d
 
 ## Contact 📫
 You're always more than welcome to seek out contact! I love meeting new people. Here are some ways you could get in touch: 
-+ Twitter DM's **(@fitnihil)**
-+ Discord DM's **(@Nihil#0002)**
-+ Send an E-Mail: **(fitnihil1@gmail.com)**
++ Twitter DM's **([@fitnihil](https://twitter.com/fitnihil))**
++ Discord DM's **([@Nihil#0002](discord://-/users/426809593922846731))**
++ Send an E-Mail: **([fitnihil1@gmail.com](mailto:fitnihil1@gmail.com))**
